@@ -113,11 +113,6 @@ input.button-add {
     vertical-align: middle; /* align the text vertically centered */
 
 }
-#about{
-    transform: translate(28vw,48vh);
-    font-size: 200%;
-    font-weight: 800;
-}
 @keyframes navLinkFade{
     from{
         opacity: 0;
