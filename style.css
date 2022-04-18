@@ -103,7 +103,7 @@ input.button-add {
     transform: translate(15vw, 42vh);
     background-image: url(whatsapp.png); /* 16px x 16px */
     background-repeat: no-repeat;  /* make the background image appear only once */
-    background-position: 1vw 0.75vh;  /* equivalent to 'top left' */
+    background-position: 1vw 0.50vh;  /* equivalent to 'top left' */
     background-size: 20%;
     border: none;           /* assuming we don't want any borders */
     cursor: pointer;        /* make the cursor like hovering over an <a> element */
